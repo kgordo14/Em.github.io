@@ -1,0 +1,21 @@
+h1{font-family: 'Smokum', cursive;color:purple;}
+h2{font-family: 'Lato', cursive;color:brown;}
+img {width:400px;
+float: left;
+margin: 10px;}
+
+.banner {
+width:1660px;
+margin-bottom: 50px;
+}
+
+body{background-color:lightblue;}
+
+p{
+color:black;
+font-family: 'Lato', cursive;
+font-size:20px;
+}
+
+a{color:red;font-size 20px;}
+a:hover{color:blue;font-size 30px;}
